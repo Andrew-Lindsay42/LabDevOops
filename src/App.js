@@ -21,7 +21,6 @@ function App() {
     },
   ];
 
-  return <ChartContainer genres={genres} />;
-}
+/''ee3edekoeik44444444444444444444444wasdlasldkasli[]}
 
 export default App;

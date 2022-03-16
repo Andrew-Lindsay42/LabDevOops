@@ -20,6 +20,7 @@ const Chart = ({ songs }) => {
           />
         );
       })}
+      <p>Jessie was here</p>
     </div>
   );
 };
